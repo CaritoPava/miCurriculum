@@ -1,0 +1,115 @@
+.barraprincipal{
+    color: black;
+    font-family: 'Inconsolata', monospace;
+    font-size: 100;
+    font-weight: 700;
+    list-style: none;
+    display: block;
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.presentacion{
+
+    
+    background-image:url("fondo2.jpeg");
+    background-size: cover;
+    background-position: center
+    
+
+    ;
+}
+img {
+    background-color:#E5E5E5;
+    ;
+}
+img{
+    display: block;
+    margin: auto;
+}
+
+.icons {
+    margin: 10px;
+}
+
+.fab {
+    color: blanchedalmond;
+    margin: 10px;
+
+}
+
+.foto {
+    border: 7px solid;
+}
+
+h1  {
+    background-color: #C4C4C4;
+    text-align: center;
+    color:#005677;
+    font-size: 35px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 0.3em;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color:#005677;
+    font-size: 20px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    line-height: 150%;
+
+}
+
+
+.personal_data--li {
+    list-style:disc;
+}
+
+.info {
+    padding-left: 40px;
+    list-style: none;
+}
+
+.formacionExperiencia {
+    list-style: none;
+}
+
+footer{
+    background-color: #005677;
+    font-size: 20px;
+    color: white;
+    display: block;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.massobremi{
+    
+    color: blanchedalmond;
+    align-items: right;
+    padding-left: 70px;
+}
+
+.mifamily1{
+    float: left;
+}
+
+.mifamily2{
+    float: right;
+}
+
+.parrafo{
+    font-family:'Inconsolata', monospace ;
+    font-size: 40;
+    font-weight: 500;
+}
